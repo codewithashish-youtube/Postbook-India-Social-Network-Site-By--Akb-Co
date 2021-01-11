@@ -1,0 +1,10 @@
+<AKb Code starts here>
+$Index.html in *akb*
+Start(
+Heading1=Postbook(https://343hdis.com/postbook-img-512X512)
+If Source not Found:*invalid*Show=(Click here to view this content Reolad){Reload function[Refresh Selected iframe]}
+)
+
+<Akb Style starts here>
+Load from url(https://343hdis.com/postbook-img-512X512/css-in-akb)
+<style>?Not found then Reload iframe=0
